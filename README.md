@@ -9,7 +9,8 @@ STA 308 final (fall 2021)
 |Groups data in DF together by commonality var| group_by()         | data.groupby()              |
 |created VOF variable name and added to DF    | summarize()        | data.assign()               |
 | caculates the mean                          | mean()             | .mean()                     |
-| calculates standard deviation               | sd()               | .STD()
+| calculates standard deviation               | sd()               | .std()                      |
+| assignment opperator                        | <-                 | =                           |
 
 
 
